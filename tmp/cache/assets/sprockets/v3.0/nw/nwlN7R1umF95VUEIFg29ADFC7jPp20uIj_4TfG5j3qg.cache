@@ -1,0 +1,25 @@
+{:uriI"•file://app/assets/javascripts/zenscroll-latest/package.json?type=application/json&id=8bafe1e11b479e5b26ab8e62d6639827013ec8fb8d9e917fcc95c934c3340fa4:ET:load_pathI"app/assets/javascripts;T:filenameI"9app/assets/javascripts/zenscroll-latest/package.json;T:	nameI"zenscroll-latest/package;T:logical_pathI""zenscroll-latest/package.json;T:content_typeI"application/json;T:sourceI"1{
+	"name": "zenscroll",
+	"version": "4.0.0",
+	"description": "A module to smooth-scroll web pages and scrollable elements (like DIVs)",
+	"main": "zenscroll.js",
+	"files": ["zenscroll.js", "zenscroll-min.js"],
+	"homepage": "https://zengabor.github.io/zenscroll/",
+	"keywords": ["animation", "scroll", "anchor", "ux"],
+	"license": "Unlicense",
+	"author": "Gabor Lenard (http://www.gaborlenard.com)",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/zengabor/zenscroll.git"
+	},
+	"bugs": {
+		"url": "https://github.com/zengabor/zenscroll/issues"
+	}
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Gfile-digest://app/assets/javascripts/zenscroll-latest/package.json;TTF:charsetI"
+utf-8;F:digest"%+
+h‚"îêãş‘“Şá„Ö;€
+¦{U©”ª)1º[:lengthi1:dependencies_digest"%c–Ğ¹ù“Œ6±ù[€Œ’ûKX6ÈØp*K0ë¿:idI"E8bafe1e11b479e5b26ab8e62d6639827013ec8fb8d9e917fcc95c934c3340fa4;F:
+mtimel+î™Y
