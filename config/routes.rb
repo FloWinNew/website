@@ -1,3 +1,6 @@
 Rails.application.routes.draw do
-  # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
+
+  get "/index", to: "page#index", as: "index"
+  get 'page/form' => 'page#form'
+  root 'page#index'
 end
