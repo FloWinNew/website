@@ -16,18 +16,20 @@ body, html{
   width: 700px;
   margin: 60px auto 60px auto;
   padding: 20px;
-  border-radius: 20px;
   background-image: url(../images/form.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  outline: 1px solid #ddd;
+  border-top: 1px solid #fff;
+  padding: 10px;
 }
 
 h3{
   display: inline;
   font-weight: bolder;
   font-size: 2em;
-  background-color: rgba(155, 155, 155, .6);
+  background-color: rgba(22, 177, 255, .6);
   border-radius: 50px;
   padding: 20px;
   margin: 10px auto 20px auto;
